@@ -1,3 +1,8 @@
+# Hackathon 2015 Java Implementation
+
+Java 基准实现之一
+
+```
 Stats
 Concurrency level:         1000
 Time taken for tests:      11343ms
@@ -18,3 +23,4 @@ Percentage of orders made within a certain time (ms)
 95%     527
 98%     655
 100%    1646
+```
