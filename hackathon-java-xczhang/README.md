@@ -1,4 +1,4 @@
-# Hackathon 2015 Python Implementation
+# Hackathon 2015 Java Implementation
 
 Java 基准实现之一
 
